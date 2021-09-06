@@ -27,7 +27,6 @@ class App extends Component {
         <TOC data={this.state.contents}></TOC>
         <Content title="HTML" desc="HTML is HyperText Markup
         Language."></Content>
-        testesttest
       </div>
     );
   }
